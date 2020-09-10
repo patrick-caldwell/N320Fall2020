@@ -6,7 +6,9 @@ class Instrument {
   }
 
   play() {
-    console.log(`${this.family} ${this.verb} at ${this.loudness}`);
+    let output = `${this.family} ${this.verb} at ${this.loudness}`;
+    console.log(output);
+    document.getElementById("instrumentOutput").innerHTML += output + "<br />";
   }
 }
 
