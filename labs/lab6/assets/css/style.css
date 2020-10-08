@@ -1,0 +1,37 @@
+:root {
+  --book-multiplier: 2;
+}
+
+p {
+  margin: 0;
+}
+
+#app {
+}
+
+#books-container {
+  display: flex;
+}
+
+.book {
+  height: calc(16rem * var(--book-multiplier));
+  width: calc(12rem * var(--book-multiplier));
+  background-color: #ccc8ad;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 3rem;
+}
+
+.title {
+}
+
+.emoji {
+  font-size: calc(5rem * var(--book-multiplier));
+  margin: 5rem 0;
+}
+
+.author {
+  font-size: 1.5rem;
+}
