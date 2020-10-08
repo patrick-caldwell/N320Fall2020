@@ -1,0 +1,33 @@
+html,
+body {
+  height: 100%;
+}
+
+#header {
+  height: 10%;
+}
+
+#header h1 {
+  font-size: 3em;
+  color: darkblue;
+}
+
+#divider {
+  height: 10%;
+  background-color: darkblue;
+}
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 80%;
+}
+
+.rect {
+  width: 25%;
+  height: 200px;
+  background-color: purple;
+  margin: 50px;
+  opacity: 0;
+}
