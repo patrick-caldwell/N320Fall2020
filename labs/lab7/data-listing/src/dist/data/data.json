@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Mario Story",
+    "language": "JPN",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://lh5.googleusercontent.com/-VF9YsiQZmqw/UZAlecLJd0I/AAAAAAAAHFg/eT57ZTuRs1Y/w450-h615-no/Paper+Mario+64+JP.gif"
+  },
+  {
+    "name": "Paper Mario",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_papermario_label_thumb.jpg"
+  },
+  {
+    "name": "Donkey Kong 64",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Rareware",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/label_n64_donkeykong64_thumb.jpg"
+  },
+  {
+    "name": "Super Mario 64",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/label_n64_supermario64_thumb.jpg"
+  },
+  {
+    "name": "Goldeneye 007",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Rareware",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_goldeneye007_2_label_thumb.jpg"
+  },
+  {
+    "name": "Banjo-Kazooie",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Rareware",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_banjokazooie_label_thumb.jpg"
+  },
+  {
+    "name": "Banjo-Tooie",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Rareware",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/label_n64_banjotooie_thumb.jpg"
+  },
+  {
+    "name": "Conker's Bad Fur Day",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Rareware",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_conkersbadfurday_usa_label_thumb.jpg"
+  },
+  {
+    "name": "Diddy Kong Racing",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Rareware",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/label_n64_diddykongracing_eu_thumb.jpg"
+  },
+  {
+    "name": "Mario Kart 64",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/label_n64_mariokart64_thumb.jpg"
+  },
+  {
+    "name": "Mario Party",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_marioparty_label_thumb.jpg"
+  },
+  {
+    "name": "Mario Party 2",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_marioparty2_label_thumb.jpg"
+  },
+  {
+    "name": "Mario Party 3",
+    "language": "ENG",
+    "region": "NTSC",
+    "developer": "Nintendo",
+    "image": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_marioparty3_label_thumb.jpg"
+  }
+]
