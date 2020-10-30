@@ -13,3 +13,5 @@ Animation Lab: https://patrick-caldwell.github.io/N320Fall2020/labs/lab5/index.h
 Intro Vue Lab: https://patrick-caldwell.github.io/N320Fall2020/labs/lab6/index.html
 
 Vue Data Listing: https://patrick-caldwell.github.io/N320Fall2020/labs/lab7/data-listing/src/dist/index.html
+
+Board Game: https://patrick-caldwell.github.io/N320Fall2020/labs/Project1/index.html
