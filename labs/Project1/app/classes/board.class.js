@@ -1,4 +1,4 @@
-class board extends gameLogic {
+class board {
   constructor() {
     this.boardArr = [
       [null, null, null, null, null, null, null],

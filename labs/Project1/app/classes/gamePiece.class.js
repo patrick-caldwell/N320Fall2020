@@ -1,5 +1,6 @@
-class gamePiece {
+class gamePiece extends board {
   constructor(player, column) {
+    super();
     this.player = player;
     this.column = parseInt(column, 10);
     this.color;
