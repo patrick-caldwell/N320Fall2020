@@ -15,3 +15,5 @@ Intro Vue Lab: https://patrick-caldwell.github.io/N320Fall2020/labs/lab6/index.h
 Vue Data Listing: https://patrick-caldwell.github.io/N320Fall2020/labs/lab7/data-listing/src/dist/index.html
 
 Board Game: https://patrick-caldwell.github.io/N320Fall2020/labs/Project1/index.html
+
+Kickball: https://patrick-caldwell.github.io/N320Fall2020/labs/kickball/index.html
